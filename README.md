@@ -1,9 +1,3 @@
-<!--
-
-5. Text ressaltat en negreta i cursiva al llarg de les teves explicacions.
-
--->
-
 # Guía de viaje Barcelona, España
 
 ## Opciones Veggies 🌱
@@ -39,6 +33,7 @@
 > *📎 ENLACES DE INTERÉS*
 > - [🌐 Web](https://goodshitvegan.com/)
 
+---
 
 ## Maleta
 
@@ -52,7 +47,7 @@
   - Gasas
   - Vendas
 
-### Miscelaneaa
-- Riñonera
-- Libro
-- Antifaz
+- ### Miscelaneaa
+  - Riñonera
+  - Libro
+  - Antifaz
