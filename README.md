@@ -1,10 +1,7 @@
 <!--
 
 5. Text ressaltat en negreta i cursiva al llarg de les teves explicacions.
-6. Un enllaç a una pàgina web de turisme, Viquipèdia o Google Maps
-d'aquell lloc.
-7. Una imatge representativa de la ciutat (pots buscar qualsevol imatge a
-internet i utilitzar-ne l'enllaç per incrustar-la).
+
 -->
 
 # Guía de viaje Barcelona, España
@@ -32,11 +29,14 @@ internet i utilitzar-ne l'enllaç per incrustar-la).
 > *📎 ENLACES DE INTERÉS*
 > [🌐 Instagram] (https://www.instagram.com/laveganeriadelborn/)
 
+---
 
 ### 3. Root & Rolls. 🍽️
 ![Imagen del local](https://vegconomist.com/wp-content/uploads/sites/3/Roots-Rolls-Barcelona-2.jpg)
 > ⭐️ Valoración Maps: **4,6** \
-> [📍 Carrer del Consell de Cent, 401, bajos l, Eixample, 08009 Barcelona](https://www.google.com/maps/place/Roots+%26+Rolls/@41.395297,2.1685441,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12a4a3a20c60598f:0x7a8b5f587114509f!8m2!3d41.395297!4d2.171119!16s%2Fg%2F11gjxctmdd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D)\
+> [📍 Carrer del Consell de Cent, 401, bajos l, Eixample, 08009 Barcelona](https://www.google.com/maps/place/Roots+%26+Rolls/@41.395297,2.1685441,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12a4a3a20c60598f:0x7a8b5f587114509f!8m2!3d41.395297!4d2.171119!16s%2Fg%2F11gjxctmdd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D)
+
+> *📎 ENLACES DE INTERÉS*
 > [🌐 Web](https://goodshitvegan.com/)
 
 
