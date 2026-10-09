@@ -26,7 +26,7 @@
 > ⭐️ Valoración Maps: **4,8** \
 > [📍 Av. de Francesc Cambó, 16 Mercat Santa Caterina. parada 159-160, 08003 Barcelona](https://www.google.com/maps/place/La+Veganeria+del+Born/@41.3864311,2.1782975,1032m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12a4a306eb1d4c5d:0xfb117a3a9179a07e!8m2!3d41.3864311!4d2.1782975!16s%2Fg%2F11rw9f0bh0?entry=ttu&g_ep=EgoyMDI2MTAwNS4wIKXMDSoASAFQAw%3D%3D)
 
-> *📎 ENLACES DE INTERÉS* \
+> *📎 ENLACES DE INTERÉS*
 > - [🌐 Instagram] (https://www.instagram.com/laveganeriadelborn/)
 
 ---
@@ -36,7 +36,7 @@
 > ⭐️ Valoración Maps: **4,6** \
 > [📍 Carrer del Consell de Cent, 401, bajos l, Eixample, 08009 Barcelona](https://www.google.com/maps/place/Roots+%26+Rolls/@41.395297,2.1685441,825m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12a4a3a20c60598f:0x7a8b5f587114509f!8m2!3d41.395297!4d2.171119!16s%2Fg%2F11gjxctmdd?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D)
 
-> *📎 ENLACES DE INTERÉS* \
+> *📎 ENLACES DE INTERÉS*
 > - [🌐 Web](https://goodshitvegan.com/)
 
 
