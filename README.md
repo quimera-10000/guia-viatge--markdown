@@ -19,17 +19,21 @@ internet i utilitzar-ne l'enllaç per incrustar-la).
 
 ## Opciones Veggies para comer 🌱
 ### 1. Good Shit, Vegan Kebabs. 🥙
+<!-- Add restaurant image -->
+
 > [📍Ubicación](https://www.google.com/maps/place/Good+Shit,+Vegan+Kebabs./@41.4028417,2.1564671,1032m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12a4a3ebfadcefa3:0x7e8adcf5e4d33aef!8m2!3d41.4028417!4d2.1564671!16s%2Fg%2F11mwkbq_72?entry=ttu&g_ep=EgoyMDI2MTAwNS4wIKXMDSoASAFQAw%3D%3D)\
 > 💲 COSTE: \
 > ⭐️ Valoración Maps: \
 > [📔 Carta](https://pedidos.goodshitvegan.com/)
 
 ### 2. La Veganeria del Born
+<!-- Add restaurant image -->
 > [📍Ubicación](https://www.google.com/maps/place/La+Veganeria+del+Born/@41.3864311,2.1782975,1032m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12a4a306eb1d4c5d:0xfb117a3a9179a07e!8m2!3d41.3864311!4d2.1782975!16s%2Fg%2F11rw9f0bh0?entry=ttu&g_ep=EgoyMDI2MTAwNS4wIKXMDSoASAFQAw%3D%3D)\
 > 💲 COSTE: \
 > ⭐️ Valoración Maps: 4,8 \
 
 ### 3. Root & Rolls. 🥙
+<!-- Add restaurant image -->
 > [📍Ubicación]()\
 > 💲 COSTE: \
 > ⭐️ Valoración Maps:  \
